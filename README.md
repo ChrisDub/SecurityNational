@@ -1,6 +1,10 @@
 # SecurityNational
 Interview Project
 
+//TODO*****************************************************************************************************************************
+go do the link below and place the Employee.txt file into the Resources folder within the project. Github didn't like the large file when i attempted to push the code up.
+//TODO*****************************************************************************************************************************
+
 Here is a programming task to give us a feel for your style. If you have any questions about it, feel free to ask away.  No need for a database, just do object/lists in memory.
 
 
