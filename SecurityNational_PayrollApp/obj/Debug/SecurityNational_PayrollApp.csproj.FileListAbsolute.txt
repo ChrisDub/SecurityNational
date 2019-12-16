@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\SecurityNational_PayrollApp\SecurityNational_PayrollApp\bin\Debug\SecurityNational_PayrollApp.exe.config
+C:\Users\Owner\source\repos\SecurityNational_PayrollApp\SecurityNational_PayrollApp\bin\Debug\SecurityNational_PayrollApp.exe
+C:\Users\Owner\source\repos\SecurityNational_PayrollApp\SecurityNational_PayrollApp\bin\Debug\SecurityNational_PayrollApp.pdb
+C:\Users\Owner\source\repos\SecurityNational_PayrollApp\SecurityNational_PayrollApp\obj\Debug\SecurityNational_PayrollApp.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\SecurityNational_PayrollApp\SecurityNational_PayrollApp\obj\Debug\SecurityNational_PayrollApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\SecurityNational_PayrollApp\SecurityNational_PayrollApp\obj\Debug\SecurityNational_PayrollApp.exe
+C:\Users\Owner\source\repos\SecurityNational_PayrollApp\SecurityNational_PayrollApp\obj\Debug\SecurityNational_PayrollApp.pdb
